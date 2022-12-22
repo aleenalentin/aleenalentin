@@ -1,5 +1,5 @@
 ### Hi there, my name is Aleena 👋
-🔭 I’m currently working on ROS and Open-CV at Qbotics Labs.
+🔭 I’m currently working on ROS and Open-CV at [Qbotics Labs](https://qboticslabs.com/).
 
 📫 How to reach me: 
  ✉️  Email: aleenathayankery@gmail.com
